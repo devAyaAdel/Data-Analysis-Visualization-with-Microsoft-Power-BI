@@ -81,6 +81,6 @@ A dynamic date table was generated using DAX Calculations, designed to automatic
     * Developed key performance indicators (KPIs) relevant to Seven Sages Brewing's business, such as total sales, gross profit, and profit margin.
    
 **4. Report Creation (Power BI)**
-![Sales and Gross Profit Margin by Product](Data%20Model%20for%20Seven%20Sages%20Brewing%20Company/images/Sales&GPM%20By%20product.JPG)
+![Sales and Gross Profit Margin by Product](Data Model for Seven Sages Brewing Company/images/Sales&GPM By product.JPG)
 
 
