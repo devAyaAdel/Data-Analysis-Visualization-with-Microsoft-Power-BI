@@ -74,6 +74,7 @@ A dynamic date table was generated using DAX Calculations, designed to automatic
     * Identified primary and foreign keys to define relationships between tables.
     * Created accurate relationships based on these keys, reflecting the business logic.
     * Ensured the relationships were optimized for data analysis and reporting.
+![Data Model](images/model.JPG)
 
 **3. DAX Measures and Calculations**
 
@@ -81,6 +82,8 @@ A dynamic date table was generated using DAX Calculations, designed to automatic
     * Developed key performance indicators (KPIs) relevant to Seven Sages Brewing's business, such as total sales, gross profit, and profit margin.
    
 **4. Report Creation (Power BI)**
-![Sales and Gross Profit Margin by Product](Data%20Model%20for%20Seven%20Sages%20Brewing%20Company/images/model.JPG)
+![Sales and Gross Profit Margin ](images/Sales&GPM.JPG)
+
+![Sales and Gross Profit by Product](images/Sales&GPM%20By%20product.JPG)
 
 
